@@ -13,3 +13,38 @@
  *= require_tree .
  *= require_self
  */
+
+form {
+	margin-top: 250px;
+ }
+
+h1 {
+ margin-top: 25px;
+ margin-left: 25px;
+}
+
+div {
+	margin-top: 25px;
+	margin-left: 25px;
+	padding-left: 15px;
+	border-left-style: solid;
+	border-left-width: 5px;
+	border-left-color: grey;
+}
+
+#person {
+  font-family: "Roboto", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+#sentence {
+	font-family: "Roboto", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.linkto {
+	text-decoration: none;
+	margin-left: 25px;
+}
